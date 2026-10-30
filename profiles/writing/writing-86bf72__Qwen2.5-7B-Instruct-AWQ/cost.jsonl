@@ -1,0 +1,2 @@
+{"time": "2026-10-29 12:08:19", "setting": "writing", "kinds": ["query", "doc"], "limit": 200, "generated": 397, "seconds": 394.9, "gpus": 2, "gpu": "Tesla T4", "exit_codes": [0, 0]}
+{"time": "2026-10-29 13:44:10", "setting": "writing", "kinds": ["query", "doc"], "limit": 0, "generated": 10484, "seconds": 4743.6, "gpus": 2, "gpu": "Tesla T4", "exit_codes": [0, 0]}

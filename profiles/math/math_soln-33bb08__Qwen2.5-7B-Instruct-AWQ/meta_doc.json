@@ -1,0 +1,8 @@
+{
+ "prompt": "math_problem_solution",
+ "prompt_sha": "bd04f2c06997",
+ "model": "Qwen/Qwen2.5-7B-Instruct-AWQ",
+ "max_new_tokens": 220,
+ "max_chars": 4000,
+ "decoding": "greedy-freqpen0.3"
+}

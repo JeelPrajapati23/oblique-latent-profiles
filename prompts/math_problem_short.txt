@@ -1,0 +1,11 @@
+Read the math problem below. Do not solve it in full. Work out the core reasoning move a solution needs (the "aha moment") and describe it so that a mathematician would recognise the same move in a problem from a completely different field.
+Name REASONING TECHNIQUES, not the topic. Do NOT mention the field or the objects involved (no words such as triangle, polynomial, matrix, prime, graph, integral, sequence). Only name a technique if a solution really needs it.
+Write in words only: no formulas, symbols, LaTeX, or variable names.
+Answer in exactly this format, about 40 words in total:
+Techniques: <1-2 technique names>
+Proof move: <2-3 abstract steps joined by "->">
+Key insight: <one abstract sentence>
+Also known as: <1 other way a mathematician might phrase the same move>
+
+Problem:
+{text}

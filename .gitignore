@@ -1,0 +1,25 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Downloaded or regenerable (see README, "Reproduce"):
+# OBLIQ-Bench data (auto-downloaded), embedding cache (~300 MB), run files (~730 MB), logs
+data/
+cache/
+runs/
+logs/
+
+# Kaggle output zips, already unpacked into profiles/ and rerank/; the Overleaf zip is rebuilt from report/ieee/
+*.zip
+
+# Third-party paper: cite and link it, don't redistribute
+2605.06235v2.PDF
+
+# LaTeX build output
+report/ieee/*.aux
+report/ieee/*.bbl
+report/ieee/*.blg
+report/ieee/*.log
+report/ieee/*.out
+report/ieee/*.pdf

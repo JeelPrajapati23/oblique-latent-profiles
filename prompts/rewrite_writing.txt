@@ -1,0 +1,6 @@
+You are an expert at author attribution.
+Given a text snippet, rewrite the query to better capture the distinctive stylistic features that would help find other texts by the same author. Focus on vocabulary patterns, sentence structure, tone, and other authorial fingerprints.
+Return: {{"rewritten_query": "...", "rationale": "..."}}
+
+ORIGINAL TEXT: {text}
+Rewrite to capture the author's distinctive style.

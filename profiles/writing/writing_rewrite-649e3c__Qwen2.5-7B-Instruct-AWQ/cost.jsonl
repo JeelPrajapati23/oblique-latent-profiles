@@ -1,0 +1,1 @@
+{"time": "2026-10-30 16:06:33", "setting": "writing_rewrite", "kinds": ["query"], "limit": 0, "generated": 512, "seconds": 383.9, "gpus": 2, "gpu": "Tesla T4", "exit_codes": [0, 0]}

@@ -1,0 +1,13 @@
+You are a stylometry expert. Describe what makes the AUTHOR of the passage below recognisable, so that the same author could be identified from a passage on a completely different topic.
+Focus on DISTINCTIVE habits. Skip traits that most blog posts share (such as "short sentences", "technical vocabulary", "informative tone", "uses commas") unless they are unusually strong here.
+Do NOT mention the subject matter, names, places, products, or facts from the passage.
+Answer in exactly this format, 60-100 words in total:
+Voice: <person (I/we/you), stance toward the reader, formality>
+Sentences: <typical length, rhythm, how sentences open and end>
+Punctuation: <distinctive punctuation habits>
+Tone and humour: <a few words>
+Signature phrases: <2-4 short non-topical phrases or verbal tics quoted from the passage, such as hedges, intensifiers or transitions>
+Other habits: <spelling, capitalisation, contractions, slang, formatting, paragraph structure>
+
+Passage:
+{text}

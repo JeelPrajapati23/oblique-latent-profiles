@@ -1,0 +1,1 @@
+{"time": "2026-10-30 17:28:55", "setting": "math", "model": "Qwen/Qwen2.5-3B-Instruct-AWQ", "kinds": ["query", "doc"], "limit": 0, "generated": 3659, "seconds": 388.5, "gpus": 2, "gpu": "Tesla T4", "exit_codes": [0, 0]}

@@ -1,0 +1,20 @@
+# Local environment (Python 3.12). Versions as used for every reported number.
+# CUDA build of torch (laptop GPU, dense encoding):
+#   pip install torch==2.6.0 --index-url https://download.pytorch.org/whl/cu124
+torch==2.6.0
+numpy==2.5.4
+scipy==1.18.1
+scikit-learn==1.9.1
+pandas==3.1.0
+matplotlib==3.11.2
+tqdm==4.70.1
+transformers==5.21.0
+accelerate==1.15.0
+sentence-transformers==6.2.0
+faiss-cpu==1.15.1
+rank-bm25==0.2.2
+ranx==0.3.21
+huggingface_hub==2.3.0
+
+# LLM steps (profiling, rewriting, re-ranking) run on Kaggle with vLLM; the generated
+# notebooks in kaggle/ install it themselves. Not needed locally.
